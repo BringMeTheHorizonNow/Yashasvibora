@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashasvibora
+- 👋 Hi, I’m @Yashasvibora 
 - 👀 I’m interested in Web Development and competitive programming.
 - 🌱 I’m currently learning Backend development.
 - 
@@ -7,11 +7,14 @@
 - > [LinkedIn- /yashasvibora](https://www.linkedin.com/in/yashasvibora/)
 - > [TheCampitchers](pacific-dawn-80914.herokuapp.com)
 
-![counter](https://[yashasvibora].m.pipedream.net)
+
+
 
 
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Yashasvibora&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+     ![counter](https://enr9f7ygnfbw0tn.m.pipedream.net)
+
 
 
 
