@@ -1,6 +1,6 @@
-- �Hi, I’m Yashasvibora 
-- �I’m interested in Web Development and competitive programming.
-- �I’m currently learning Backend development.
+-  Hi, I’m Yashasvibora 
+-  I’m interested in Web Development and competitive programming.
+-  I’m currently learning Backend development.
 - 
 
 - 📫 How to reach me...
