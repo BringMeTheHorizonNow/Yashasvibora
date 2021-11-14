@@ -1,5 +1,5 @@
 -  Hi, I’m Yashasvi Bora, a pre-final year engineering student at Maharaja Agrasen Institute of Technology, New Delhi, pursuing Bachelors in Information Technology.
--  Currently freelancing as a backend developer (Working with NodeJS and SQL).
+-  Currently working as a Backend Developer at Ishaanvi Solutions Pvt Ltd.
 -  Apart from coding, I love football, music and play lots of chess.
 
 
