@@ -29,7 +29,7 @@
 
 
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=Yashasvibora&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=Yashasvibora&count_private=true&show_icons=true,prs&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ![counter](https://enr9f7ygnfbw0tn.m.pipedream.net)
 
