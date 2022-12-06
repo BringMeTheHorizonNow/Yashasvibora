@@ -1,4 +1,4 @@
--  Hi, I’m Yashasvi Bora, a pre-final year engineering student at Maharaja Agrasen Institute of Technology, New Delhi, pursuing Bachelors in Information Technology.
+-  Hi, I’m Yashasvi Bora, a final year engineering student at Maharaja Agrasen Institute of Technology, New Delhi, pursuing Bachelors in Information Technology.
 -  Previously worked at JPMorgan Chase & Co as a Software Engineer Intern
 -  Apart from coding, I love football, music and play lots of chess.
 
